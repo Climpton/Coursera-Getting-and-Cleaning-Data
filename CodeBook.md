@@ -2,6 +2,7 @@
 
 ## Actions performed on data:
 1. Loading the data files given in the table below as data frames, 
+
 | File name        | Data frame name  |
 | ------------- | ------------- | 
 | `X_test.txt`     | `X_test` |
@@ -12,6 +13,7 @@
 | `subject_train.txt`     | `sub_train` |
 | `features.txt`     | `features` |
 | `activity_labels.txt`     | `activities` |
+
 2. Merging `X_train` and `X_test` into one data frame: `X_data`
 3. Merging `sub_train` and `sub_test` into one data frame: `sub_data`
 4. Merging `y_train` and `y_test` into one data frame: `labels`
