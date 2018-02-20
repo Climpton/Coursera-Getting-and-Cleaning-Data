@@ -27,7 +27,7 @@
 12. Cast `melt_data` into `tidy_data` with the average of each variable for each activity and each subject
 13. Write `tidy_data` to file `./data/tidy_data.txt
 
-## `tidyData`data frame
+## `tidy_data`data frame
 
 | Column name        | Description  |
 | ------------- | ------------- | 
@@ -99,4 +99,6 @@
 | `fBodyBodyGyroMag-std()`     | the average value for this feature, num (range: -1:1) |
 | `fBodyBodyGyroJerkMag-mean()`     | the average value for this feature, num (range: -1:1) |
 | `fBodyBodyGyroJerkMag-std()`     | the average value for this feature, num (range: -1:1) |
+
+
 
